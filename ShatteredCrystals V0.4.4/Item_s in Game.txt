@@ -1,0 +1,26 @@
+Current Items (In Game):
+Bronze Sword:$500, $250, 5 strBonus, 2 attBonus, ID #1
+Iron Sword:$1000, $500, 10 strBonus, 4 attBonus, ID #2
+Steel Sword:$2000, $1000, 15 strBonus, 6 attBonus, ID #8
+Gold Sword:$4000, $2000, 20 strBonus, 8 attBonus, ID #4
+Black Diamond Sword:$8000, $4000, 30 strBonus, 15 attBonus, ID #5
+Bronze armor: $500, $250, 5 defBonus, 2 vitBonus, ID #6
+Iron Armor :$1000, $500, 10 defBonus, 4 vitBonus, ID #7
+Steel Armor :$2000, $1000, 15 defBonus, 6vitBonus, ID #8
+Gold Armor :$4000, $2000, 20 defBonus, 8 vitBonus, ID #9
+Black Diamond Armor:$8000, $4000, 30 defBonus, 15 vitBonus, ID #10
+
+Planned Updates(not in game):
+For All Swords ---> for every 5 str++, avoid--
+For ALL PLATED Armor ---> for every 5 def++, avoid--
+Reduced cost of ALL lower tiered items by 100-200 gold
+
+Planned Weapons(not in game):
+Mana Mog:$400, $200, 5 intel, 5 Mana, ID #11
+Star Cactuar:$800, $400, 10 intel, 5 magicAtt, ID #12
+Space Mage:$1800, $800, 8 intel, 15 magicAtt, ID #13
+Moomba Triplet:$4000, $1800, 8 intel, 8 mana, 8 magicAtt, ID #14
+Onion Kight:$10000, $6000, 30 intel, 30 mana, 30 magicAtt, ID#15
+
+Planned Armor(not in game):
+Leather Armor:$400, $200, 5 avoid, 2 def, 2 vit, ID #16

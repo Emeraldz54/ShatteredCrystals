@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Teemo()
+comment1.params=other
+comment1.target=Teemo(Character)
+comment2.params=other
+comment2.target=void\ inStat(Character)
+comment3.params=other
+comment3.target=int\ special(Character)
+numComments=4

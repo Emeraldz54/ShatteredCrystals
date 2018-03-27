@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=user\ avArm\ avWep\ avStaff\ secretShop
+comment0.target=void\ main(Player,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ boolean)
+numComments=1

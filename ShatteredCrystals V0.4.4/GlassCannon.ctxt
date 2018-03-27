@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GlassCannon()
+comment1.params=other
+comment1.target=GlassCannon(Character)
+comment2.params=other
+comment2.target=void\ inStat(Character)
+comment3.params=other
+comment3.target=int\ special(Character)
+numComments=4

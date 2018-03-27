@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=user\ enemy
+comment0.target=void\ main(Player,\ Monster)
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss()
+comment1.params=other
+comment1.target=Boss(Character)
+comment2.params=other
+comment2.target=void\ inStat(Character)
+numComments=3

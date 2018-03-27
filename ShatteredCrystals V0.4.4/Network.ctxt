@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=inputCount\ hiddenCount\ outputCount\ learnRate\ momentum
+comment0.target=Network(int,\ int,\ int,\ double,\ double)
+comment0.text=\r\n\ Construct\ the\ neural\ network.\r\n\r\n\ @param\ inputCount\ The\ number\ of\ input\ neurons.\r\n\ @param\ hiddenCount\ The\ number\ of\ hidden\ neurons\r\n\ @param\ outputCount\ The\ number\ of\ output\ neurons\r\n\ @param\ learnRate\ The\ learning\ rate\ to\ be\ used\ when\ training.\r\n\ @param\ momentum\ The\ momentum\ to\ be\ used\ when\ training.\r\n
+comment1.params=len
+comment1.target=double\ getError(int)
+comment1.text=\r\n\ Returns\ the\ root\ mean\ square\ error\ for\ a\ complet\ training\ set.\r\n\r\n\ @param\ len\ The\ length\ of\ a\ complete\ training\ set.\r\n\ @return\ The\ current\ error\ for\ the\ neural\ network.\r\n
+comment2.params=sum
+comment2.target=double\ threshold(double)
+comment2.text=\r\n\ The\ threshold\ method.\ You\ may\ wish\ to\ override\ this\ class\ to\ provide\ other\r\n\ threshold\ methods.\r\n\r\n\ @param\ sum\ The\ activation\ from\ the\ neuron.\r\n\ @return\ The\ activation\ applied\ to\ the\ threshold\ method.\r\n
+comment3.params=input
+comment3.target=double[]\ computeOutputs(double[])
+comment3.text=\r\n\ Compute\ the\ output\ for\ a\ given\ input\ to\ the\ neural\ network.\r\n\r\n\ @param\ input\ The\ input\ provide\ to\ the\ neural\ network.\r\n\ @return\ The\ results\ from\ the\ output\ neurons.\r\n
+comment4.params=ideal
+comment4.target=void\ calcError(double[])
+comment4.text=\r\n\ Calculate\ the\ error\ for\ the\ recogntion\ just\ done.\r\n\r\n\ @param\ ideal\ What\ the\ output\ neurons\ should\ have\ yielded.\r\n
+comment5.params=
+comment5.target=void\ learn()
+comment5.text=\r\n\ Modify\ the\ weight\ matrix\ and\ thresholds\ based\ on\ the\ last\ call\ to\r\n\ calcError.\r\n
+comment6.params=
+comment6.target=void\ reset()
+comment6.text=\r\n\ Reset\ the\ weight\ matrix\ and\ the\ thresholds.\r\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NetworkMonster()
+comment1.params=lvl1
+comment1.target=NetworkMonster(int)
+comment2.params=lvl1
+comment2.target=void\ inStat(int)
+comment3.params=pHp\ mHp
+comment3.target=int\ choice(double,\ double)
+numComments=4
