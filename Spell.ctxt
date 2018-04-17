@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Spell()
+comment1.params=st\ dmg\ nm\ mc\ mod\ stc\ self\ dur\ ee\ eDur
+comment1.target=Spell(java.lang.String,\ double,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+numComments=2
