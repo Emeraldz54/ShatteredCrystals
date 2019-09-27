@@ -248,10 +248,12 @@ public class Battle{
                     upd = 3;
                     System.out.println("You were hurt "+upd+" poison damage!");
                     user.hp-=upd;
+                    System.out.println("You now have "+user.hp+" health left.");
                 }
                 if(user.checkBurn()){
                     System.out.println("You were hurt 10 burn damage!");
                     user.hp-=10;
+                    System.out.println("You now have "+user.hp+" health left.");
                 }
             } else{
                 System.out.println("You are stunned! You can't attack!");
@@ -304,10 +306,12 @@ public class Battle{
                     epd = 3;
                     System.out.println("The "+enemy.name+" was hurt "+epd+" poison damage!");
                     enemy.hp-=epd;
+                    System.out.println("The "+enemy.name+" has "+enemy.hp+" health left.");
                 }
                 if(enemy.checkBurn()){
                     System.out.println("The "+enemy.name+" was hurt 10 burn damage!");
                     enemy.hp-=10;
+                    System.out.println("The "+enemy.name+" has "+enemy.hp+" health left.");
                 }
             }
             user.defending = false;
